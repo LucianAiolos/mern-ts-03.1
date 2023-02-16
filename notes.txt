@@ -1,0 +1,8 @@
+
+--Adding typescript to existing app--
+
+npm install --save typescript @types/node @types/react @types/react-
+dom @types/jest
+
+--Creating new react ts app --
+npx create-react-app client --template typescript
